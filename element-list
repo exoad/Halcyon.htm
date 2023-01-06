@@ -2,9 +2,10 @@ com.jackmeng
 com.jackmeng.builtin
 com.jackmeng.core.abst
 com.jackmeng.core.gui
+com.jackmeng.core.lua
 com.jackmeng.core.ploogin
-com.jackmeng.core.ploogin.builtin.artworkdisplay
 com.jackmeng.core.util
+com.jackmeng.dev
 com.jackmeng.platform
 com.jackmeng.tailwind
 com.test
